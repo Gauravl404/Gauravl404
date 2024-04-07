@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey there! 👋 I'm Gurav Jaiswal
 
-<!--
-**Gauravl404/Gauravl404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and love creating innovative solutions to solve real-world problems. Here's a little about me:
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Software Developer
+- 🎓 Computer Science graduate
+- 🌱 Always learning and exploring new technologies
+- 🔭 Currently working on exciting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 💡 Proficient in Java and Javascript.
+- 🛠️ Experienced with Spring boot and react.js 
+- 📚 Strong understanding of data structures and algorithms
+
+
+Feel free to explore my repositories to see more of my work!
+
+## Get in Touch
+- 📧 Email: [gaurav55558@gmail.com](mailto:gaurav55558@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kumar-gj](https://www.linkedin.com/in/kumar-gj/)
+- 🌐 Website: [jinggle.in](https://jinggle.in)
+
+Let's connect and collaborate on exciting projects together! 😄

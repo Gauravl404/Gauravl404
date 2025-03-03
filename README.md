@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Gurav Jaiswal
+# Hey there! 👋 I'm Gaurav Jaiswal
 
 Welcome to my GitHub profile! I'm passionate about software development and love creating innovative solutions to solve real-world problems. Here's a little about me:
 

@@ -19,6 +19,6 @@ Feel free to explore my repositories to see more of my work!
 ## Get in Touch
 - 📧 Email: [kumar.gj10@gmail.com](mailto:kumar.gj10@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kumar-gj](https://www.linkedin.com/in/kumar-gj/)
-- 🌐 Website: [[jinggle.in](https://gauravl404.github.io/)]([https://jinggle.in](https://gauravl404.github.io/))
+- 🌐 Website: [https://gauravl404.github.io](https://gauravl404.github.io/)
 
 Let's connect and collaborate on exciting projects together! 😄
